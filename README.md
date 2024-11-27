@@ -57,7 +57,14 @@ The following PowerBI features were incorporated
 ## MODELLING
 Automatically derived relationships are adjusted to create required relationship
 
-Screenshot(44)              Screenshot(43)
-:----------------------:|:----------------------:
-![](Screenshot(44).png)    ![](Screenshot(43).png)
-     
+![](Screenshot(44).png) 
+
+The model is a star schema
+There are dimensional tables and 1 fact table.The dimensional tables are all joined to the fact table with a one-to-many relationship
+
+## VISUALIZATION
+
+The report comprises 3 pages
+
+You can interact with the report (here)(https://app.powerbi.com/view?r=eyJrIjoiOTAyNjM2NzEtYmM0OC00ZGYxLTg4ZjItODE3MmUzZDhiMTdhIiwidCI6ImZjODljMTdkLTJiZTAtNDhiZS04ZDA2LWU3YjFlNjdkZDBhMSJ9)
+      
