@@ -67,4 +67,79 @@ There are dimensional tables and 1 fact table.The dimensional tables are all joi
 The report comprises 3 pages
 
 You can interact with the report (here)(https://app.powerbi.com/view?r=eyJrIjoiOTAyNjM2NzEtYmM0OC00ZGYxLTg4ZjItODE3MmUzZDhiMTdhIiwidCI6ImZjODljMTdkLTJiZTAtNDhiZS04ZDA2LWU3YjFlNjdkZDBhMSJ9)
-      
+
+## ANALYSIS
+
+### Question 1.
+
+a)	The three countries that generated the highest total profit for Global Superstore in 2014 are 
+
+i.	United States of America
+
+ii.	France
+
+iii.	Mexico
+
+b) Based on each of the three countries above, the names of three products with the highest corresponding total profit generated are listed in the table below for each product?
+
+1.  UNITED STATES OF AMERICA
+ 
+   -Canon image CLASS 2200 Advanced copier   25,199.94
+   
+   -Nokia Smart Phone full size              18,204.04 
+   
+   -Fellowes PB500 Electric punch plastic comb binding machine with manual bind  14,616.39
+
+3.  FRANCE
+  
+   -Canon image CLASS 2200 Advanced copier    25,199.94
+   
+   -Nokia Smart Phone full size               16,166.62
+   
+   -Motorola Smart Phone full size            12,135.86
+
+5. MEXICO
+ 
+   -Canon image CLASS 2200 Advanced copier    20,159.95
+   
+   -Nokia Smart Phone full size               17,478.18
+   
+   -Motorola Smart Phone full size            11,449.58
+
+### Question 2.
+
+a)	 3 subcategories with the highest average shipping cost in the United States includes:
+
+i.	Tables          92.75%
+
+ii.	Copiers         71.75%
+
+iii.	Bookcases       64.49%
+
+### Question 3.
+
+a)	Comparing the total profit of the top 10 countries with the highest profits In 2014, Nigeria had a total profit of 404,561.42 making it the country with the highest total profit in that year compared to other African countries like South Africa, Egypt, DR Congo Morocco, Algeria, Tanzania, Cameroun, Angola and Ghana. 
+
+### Question 4.
+
+a) The product subcategory that is the least profitable in Southeast Asia is **Fasteners**.
+
+b) Global Superstore should stop offering this product in **Cambodia** because it generated the least profit in that country
+
+### Question 5.
+
+a)	The least profitable City in the United States in terms of average profit is **Portage** with an average profit of 19
+
+### Question 6
+
+a)	The product sub-category with the highest average profit in Australia is **tables**
+
+### Question 7
+
+a)	The most valuable customers are the **consumers** with a total order quantity of 51.68%
+
+
+
+
+
+       
