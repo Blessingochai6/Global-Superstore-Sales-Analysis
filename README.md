@@ -1,7 +1,7 @@
 # Global-Superstore-Sales-Analysis
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog with the aim to be a one-stop-shop for its customers. The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
 
-![](Intro_image.jpeg)
+![](Intro_image.jpg)
 
 # INTRODUCTION
 This PowerBI project aihms to analyze **Global Superstore** dataset in order to  draw meaningful insights that would aid management in making informed decisions to improve performance and profitability
@@ -58,10 +58,11 @@ The following PowerBI features were incorporated
 ## MODELLING
 Automatically derived relationships are adjusted to create required relationship
 
-![](Screenshot(44).png) 
+![Screenshot (44)](https://github.com/user-attachments/assets/e17d3578-5543-4309-a630-5e6f4dcfa9d1)
+ 
 
 The model is a star schema
-There are dimensional tables and 1 fact table.The dimensional tables are all joined to the fact table with a one-to-many relationship
+There are 5 dimensional tables and 1 fact table.The dimensional tables are all joined to the fact table with a one-to-many relationship
 
 ## VISUALIZATION
 
