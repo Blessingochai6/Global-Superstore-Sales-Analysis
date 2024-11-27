@@ -1,7 +1,7 @@
 # Global-Superstore-Sales-Analysis
 Global Superstore is a global online retailer based in New York, boasting a broad product catalog with the aim to be a one-stop-shop for its customers. The superstore’s clientele, hailing from 147 different countries, can browse through an endless offering with more than 10,000 products. This large selection comprises three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
 
-![](Intro_image.jpg)
+![Alt text](dataset-card.jpg)
 
 # INTRODUCTION
 This PowerBI project aihms to analyze **Global Superstore** dataset in order to  draw meaningful insights that would aid management in making informed decisions to improve performance and profitability
@@ -102,11 +102,11 @@ b) Based on each of the three countries above, the names of three products with 
 
 5. MEXICO
  
-   -Canon image CLASS 2200 Advanced copier    20,159.95
+  -Canon image CLASS 2200 Advanced copier    20,159.95
    
-   -Nokia Smart Phone full size               17,478.18
+  -Nokia Smart Phone full size               17,478.18
    
-   -Motorola Smart Phone full size            11,449.58
+  -Motorola Smart Phone full size            11,449.58
 
 ### Question 2.
 
